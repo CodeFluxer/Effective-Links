@@ -3,6 +3,7 @@
 
 # 공통
 - 개발자 로드맵 https://github.com/devJang/developer-roadmap  
+- 구글 코드리뷰 포스팅 https://google.github.io/eng-practices/review/
 
 # 백엔드 
 
