@@ -5,3 +5,6 @@
 - 개발자 로드맵 https://github.com/devJang/developer-roadmap
 
 # 백엔드 
+
+# 개발관련 글
+- 민사고 간편 결제 제작기 https://blog.chosunghyun.com/kr/minsapay/
