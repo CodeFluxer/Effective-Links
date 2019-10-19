@@ -6,6 +6,8 @@
 - 구글 코드리뷰 포스팅 https://google.github.io/eng-practices/review/
 
 # 백엔드 
+- Http1.1 VS Http2 요약 - https://americanopeople.tistory.com/115
+- gRPC에 대한 이해 - https://medium.com/@goinhacker/microservices-with-grpc-d504133d191d
 
 # 개발관련 글  
 - 민사고 간편 결제 제작기 https://blog.chosunghyun.com/kr/minsapay/  
