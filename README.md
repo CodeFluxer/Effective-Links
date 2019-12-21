@@ -11,6 +11,7 @@
 
 # 개발관련 글  
 - 민사고 간편 결제 제작기 https://blog.chosunghyun.com/kr/minsapay/  
+- 네이버 메인 페이지의 트래픽 처리 https://d2.naver.com/helloworld/6070967
 
 # 개발관련 블로그
 - Even-Moon https://evan-moon.github.io
