@@ -5,6 +5,7 @@
 - 개발자 로드맵 https://github.com/devJang/developer-roadmap  
 - 구글 코드리뷰 포스팅 https://google.github.io/eng-practices/review/
 - Do not wrap Collection in Optional https://justamonad.com/wrapping-collection-in-optional-is-a-big-no-no/
+- Jackson annotation https://www.slideshare.net/topcredu/jackson-annotation-json
 # 백엔드 
 - Http1.1 VS Http2 요약 - https://americanopeople.tistory.com/115
 - gRPC에 대한 이해 - https://medium.com/@goinhacker/microservices-with-grpc-d504133d191d
