@@ -13,6 +13,6 @@
 # 개발관련 글  
 - 민사고 간편 결제 제작기 https://blog.chosunghyun.com/kr/minsapay/  
 - 네이버 메인 페이지의 트래픽 처리 https://d2.naver.com/helloworld/6070967
-
+- [재난급 서버 장애내고 개발자 인생 끝날뻔 한 썰 - 납량특집! DB에 테이블이 어디로 갔지?](https://www.youtube.com/watch?v=SWZcrdmmLEU)
 # 개발관련 블로그
 - Even-Moon https://evan-moon.github.io
